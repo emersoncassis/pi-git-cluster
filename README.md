@@ -73,5 +73,11 @@ Se o Pi 1 quebrar:
 3. Execute `docker-compose up -d`.
 4. O Gitea estará de volta no ar usando o IP do Pi 2 com os dados da última sincronização.
 
+## 🔗 Referências Oficiais
+
+- [Raspberry Pi](https://www.raspberrypi.com/)
+- [Gitea](https://gitea.io/)
+- [Rclone](https://rclone.org/)
+
 ## 📝 Licença
 Este projeto está sob a licença MIT.
