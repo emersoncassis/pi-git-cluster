@@ -1,0 +1,12 @@
+# Pastas de dados
+gitea_data/
+/opt/gitea_data_replica/
+
+# IDE e sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs
+*.log
